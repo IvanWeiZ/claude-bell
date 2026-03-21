@@ -52,7 +52,7 @@ brew install terminal-notifier
 ```bash
 mkdir -p ~/.claude/hooks
 curl -o ~/.claude/hooks/notify-bell.sh \
-  https://raw.githubusercontent.com/IvanWeiZ/claude-bell/main/notify-bell.sh
+  https://raw.githubusercontent.com/IvanWeiZ/claude-bell/master/notify-bell.sh
 chmod +x ~/.claude/hooks/notify-bell.sh
 ```
 
