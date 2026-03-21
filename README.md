@@ -81,7 +81,9 @@ Add to `~/.claude/settings.json` (merge with your existing config):
 
 ### 4. Configure Ghostty
 
-Add to your Ghostty config (`~/.config/ghostty/config`):
+Add to your Ghostty config:
+- **Linux**: `~/.config/ghostty/config`
+- **macOS**: `~/Library/Application Support/com.mitchellh.ghostty/config.ghostty`
 
 ```
 bell-features = no-system,no-audio,no-attention,title,border
